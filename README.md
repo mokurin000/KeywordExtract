@@ -1,9 +1,9 @@
-
 # Installation
 
 ## Main program
 
 ```bash
+pip install keybert[flair]
 pip install -e .
 ```
 
